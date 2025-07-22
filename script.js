@@ -53,6 +53,7 @@ const videos = [
     // Adicione mais vídeos aqui
 ];
 
+
 const searchInput = document.getElementById('search');
 const categorySelect = document.getElementById('categoryFilter');
 const videoGrid = document.getElementById('videoGrid');
