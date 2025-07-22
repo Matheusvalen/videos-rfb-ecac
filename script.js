@@ -1,24 +1,54 @@
 // Lista de vídeos
 const videos = [
     {
-    titulo: "Como fazer login",
-    youtubeId: "ID_DO_VIDEO1",
-    categoria: "Login"
+    titulo: "Inscrição no CPF",
+    youtubeId: "6kcSClv6aWk",
+    categoria: "CPF"
     },
     {
-    titulo: "Cadastro de usuários",
-    youtubeId: "ID_DO_VIDEO2",
-    categoria: "Cadastro"
+    titulo: "Situação do CPF",
+    youtubeId: "-KdbgTbcn8c",
+    categoria: "CPF"
     },
     {
-    titulo: "Gerar relatórios",
-    youtubeId: "ID_DO_VIDEO3",
-    categoria: "Relatórios"
+    titulo: "CNPJ",
+    youtubeId: "Kv3-E5z31J8",
+    categoria: "CNPJ"
     },
     {
-    titulo: "Configurações do sistema",
-    youtubeId: "ID_DO_VIDEO4",
-    categoria: "Configuração"
+    titulo: "Simples Nacional e MEI",
+    youtubeId: "1C1J3xFl1oc",
+    categoria: "CNPJ"
+    },
+    {
+    titulo: "Declaração do Imposto de Renda - IR",
+    youtubeId: "bljazfC2Vdc",
+    categoria: "Malha e Declarações"
+    },
+    {
+    titulo: "Acompanhamento da Declaração e Malha IR",
+    youtubeId: "lxiz-LEtOeA",
+    categoria: "Malha e Declarações"
+    },
+    {
+    titulo: "Pesquisa de situação fiscal e Certidões",
+    youtubeId: "JWuKHayEIWY",
+    categoria: "Consulta"
+    },
+    {
+    titulo: "Imóveis Rurais e ITR",
+    youtubeId: "j8w9O2QLkHg",
+    categoria: "Imóveis"
+    },
+    {
+    titulo: "Canais de Atendimento da Receita Federal",
+    youtubeId: "ohwXiJsxAEI",
+    categoria: "Serviços"
+    },
+    {
+    titulo: "Serviços Digitais e Procurações da Receita Federal",
+    youtubeId: "v3Jhxlkm9ig",
+    categoria: "Serviços"
     },
     // Adicione mais vídeos aqui
 ];
